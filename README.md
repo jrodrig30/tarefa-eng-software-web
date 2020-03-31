@@ -3,7 +3,7 @@
 ## Descrição
 Objetivo
 
-Desenvolver uma funcionalidade relacionada ao Caso de Ensino, utilizando front-end Angular e webservice com RESTful (JSON). 
+Desenvolver uma funcionalidade relacionada ao Caso de Ensino, utilizando front-end Angular (o professor permitiu usar Vue.js) e webservice com RESTful (JSON). 
 
 Especificação da implementação
 
