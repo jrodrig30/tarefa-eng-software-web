@@ -1,0 +1,21 @@
+{
+  "name": "node_express_mongo",
+  "version": "1.0.0",
+  "description": "Projeto de estudo",
+  "main": "loader.js",
+  "scripts": {
+    "start": "node loader.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José Rodrigo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "google-auth-library": "^6.0.0",
+    "mongoose": "^5.9.6",
+    "mongoose-auto-increment": "^5.0.1",
+    "node-restful": "^0.2.6"
+  }
+}
