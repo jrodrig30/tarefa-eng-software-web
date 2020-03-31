@@ -25,10 +25,10 @@ Lembre-se: a atividade é individual, portanto, aplicações iguais ou similares
           
           
 ## Dicas para a instalação
-
-### Back-end
  - Instale o node js em seu sistema operacional
  - Instale o mongo db em seu sistema operacional
+ 
+### Back-end
  - Acesse o projeto back-bempromotora via console e na raiz do projeto execute npm install
  - Após execute npm start
  
