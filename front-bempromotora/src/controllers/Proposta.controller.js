@@ -6,7 +6,6 @@ export default class PropostaController extends SessionService {
 
     static async getPropostas() {
         const result = await ApiService.get(ENDPOINTS.PROPOSTAS);
-        console.log(typeof result);
         return result;
     }
 
